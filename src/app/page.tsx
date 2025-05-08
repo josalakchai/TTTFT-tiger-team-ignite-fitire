@@ -25,7 +25,7 @@ export default function Page() {
         <Made />
       </section>
 
-      <section id="portfolio" className="py-20">
+      <section id="portfolio" className="py-0">
         <Portfolio />
       </section>
 
@@ -33,7 +33,7 @@ export default function Page() {
         <Partners />
       </section>
 
-      <section id="about" className="py-5">
+      <section id="about" className="py-0">
         <About />
       </section>
 

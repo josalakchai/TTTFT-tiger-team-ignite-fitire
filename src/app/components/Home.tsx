@@ -88,8 +88,8 @@ export default function Home() {
       </div>
 
       {/* BG SHAPES */}
-      <div className="absolute top-45 left-50 w-15 h-15 bg-orange-200 rounded-full opacity-30" />
-      <div className="absolute bottom-10 right-30 w-20 h-20 rounded-full bg-[#ccc] opacity-30" />
+      <div className="absolute top-1/4 md:top-1/4 left-1/5 md:left-1/7 w-15 h-15 bg-orange-200 rounded-full opacity-30 transform -translate-x-1/2 md:-translate-x-1/3" />
+      <div className="absolute bottom-10 right-5 sm:right-10 md:right-20 lg:right-50 w-20 h-20 rounded-full bg-[#ccc] opacity-30" />
       <div className="absolute top-0 right-0 w-[300px] h-[300px] md:w-[400px] md:h-[400px] lg:w-[500px] lg:h-[500px] bg-[#fff5e6] rounded-bl-full -z-10" />
       <button
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}

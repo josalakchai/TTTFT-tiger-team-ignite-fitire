@@ -51,7 +51,7 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
           {/* Logo + Text */}
           <div className="flex items-center space-x-2">
-            <div className="w-40 h-13 relative">
+            <div className="w-70 h-14 -left-10 relative">
               <Image
                 src="/LOGO TTTFT.R.png"
                 alt="Tiger Team Logo"

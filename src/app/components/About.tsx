@@ -120,7 +120,7 @@ export default function About() {
 
       {/* Our Values Section */}
       <section className="bg-white py-1">
-        <div className="max-w-7xl mx-auto px-4 text-center mt-20">
+        <div className="max-w-7xl mx-auto px-4 text-center mt-10">
           <h2 className="text-3xl font-bold text-[#011133]">Our Values</h2>
           <div className="w-16 h-1 bg-[#F7931B] mx-auto mt-2 mb-4 rounded" />
           <p className="text-gray-600 max-w-2xl mx-auto">
